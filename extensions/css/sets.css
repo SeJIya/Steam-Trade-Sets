@@ -1,0 +1,46 @@
+#allsets{
+    min-height: 100px;
+    min-width: 423px;
+    background: #1e1e1e;
+    display: inline-block;
+    border: 1px solid #494949;
+    margin-bottom: 20px;
+    padding: 16px 16px 16px 16px;
+}
+
+#blackinv{
+    background: #000;
+    height: 100%;
+    width: 417px;
+    display: inline-table;
+    padding: 6px 0px 0px 6px;
+    user-select: none;
+}
+
+.countwrap{
+    position: absolute;
+    height: 12px;
+    width: 66px;
+    background: #5392d0;
+    color: #fff;
+    line-height: 13px;
+    text-align: center;
+    margin: 73px 0px 0px 10px;
+    font-size: 11px;
+    cursor: pointer;
+}
+
+.count{
+    height: 12px;
+    width: 50px;
+    margin: 0 10px;
+}
+
+.sets{
+    height: 90px;
+    width: 98px;
+    cursor: pointer;
+    float: left;
+    margin-right: 6px;
+    margin-bottom: 6px;
+}
