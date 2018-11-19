@@ -4,5 +4,5 @@
 # Steam Trade Sets
 Chrome extension for fast card sets to trade with your partner
 <p align="center">
-  <img width="80%" height="80%" src="https://github.com/SeJIya/Steam-Trade-Sets/blob/master/img/trade,gif">
+  <img width="80%" height="80%" src="https://raw.githubusercontent.com/SeJIya/Steam-Trade-Sets/master/img/trade.gif">
 </p>
